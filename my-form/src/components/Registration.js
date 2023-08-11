@@ -51,9 +51,3 @@ function Registration() {
   );
 }
 export default Registration;
-
-          /*<label>
-            Enter Message
-          </label>
-          <input type="text" ref={messagRef}/>
-          <button type="submit">Send</button>*/
